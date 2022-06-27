@@ -1,5 +1,5 @@
 # CEPS Coding Challenge - WEBSCRAPING and SQL
-This is a small challenge set for all applicants that would like to apply to [this open position at CEPS](https://jobs.unibas.ch/offene-stellen/junior-developer-hilfsassistent-in/97f174ac-fc53-4726-8f29-f158e899a46f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic). 
+This is a small challenge set for all applicants that would like to apply to [this open position at CEPS](https://jobs.unibas.ch/offene-stellen/junior-developer/f4835ec8-936c-4ed2-a953-d720740f92cc). 
 We have two small tasks for you:
 1. **Webscraping** - It is a simple webscraping task that we already implemented. So it is a real use case, and it is not only for us to see how you approach problems, but also for you to get an idea what kind of problems you can expect. 
 2. **SQL** - We would provide you with the structure of a few tables in our database and ask you to write an sql query for a defined problem statement. The idea again is to introduce you to the kind of problems you can expect.
